@@ -1,0 +1,3 @@
+rootProject.name = 'react_native_life_cycle_methods'
+
+include ':app'
